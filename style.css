@@ -64,7 +64,15 @@ nav{
   margin-bottom: 5rem;
 }
 
-.text_home1, .text_home2, .text_home3, .text_home4, .text_home5, .text_home6, .text_home7, .text_home8, .text_home9, .text_home10{
+.text_home1{
+  text-align: center;
+  font-size: 1vw;
+  width: 40vw;
+  margin-top: 10rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.text_home2, .text_home3, .text_home4, .text_home5, .text_home6, .text_home7, .text_home8, .text_home9, .text_home10{
   text-align: center;
   font-size: 1vw;
   width: 40vw;
@@ -80,7 +88,7 @@ nav{
   margin-left: 5rem;
 }
 
-.text_home1 p, .text_home2 p,.text_home3 p,.text_home4 p, .text_home5 p, .text_home6 p, .text_home7 p,.text_home8 p,.text_home9 p, .text_home10 p,{
+.home_class p{
   margin-top: 1.2rem;
 }
 
