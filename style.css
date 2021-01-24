@@ -84,15 +84,21 @@ nav{
   margin-top: 1.2rem;
 }
 
+#foto1, #foto2, #foto3, #foto4, #foto5{
+  margin-top: 5rem;
+  border-radius: 1rem;
+  width: 25vw;
+}
+
 #foto6{
   margin-top: 10rem;
-  margin-left: 5rem;
+  margin-right: 5rem;
   border-radius: 1rem;
   width: 35vw;
 }
 
 #foto7{
-  margin-right: 5rem;
+  margin-left: 5rem;
   margin-top: 5rem;
   border-radius: 1rem;
   width: 20vw;
